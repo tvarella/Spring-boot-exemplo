@@ -25,7 +25,6 @@ public class TokenService {
 		Date hoje = new Date();
 		Date dataExpiracao = new Date(hoje.getTime() + Long.parseLong(expiration));
 		
-		System.out.println("teste do tio");
 		
 		return Jwts.builder()
 				.setIssuer("API do Fórum da Alura")
