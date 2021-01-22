@@ -16,7 +16,7 @@ public class ForumApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ForumApplication.class, args);	
 		
-		System.out.println("qualquer coisa pra commitar");
+		System.out.println("qualquer coisa pra commitar"); //teste
 		System.out.println("mais um teste para commit");
 		System.out.println("mais um teste para commit de novo");
 	}
