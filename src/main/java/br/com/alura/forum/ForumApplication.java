@@ -16,7 +16,7 @@ public class ForumApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ForumApplication.class, args);
 		
-		System.out.println("pra variar o mesmo teste  fewfwe");
+		System.out.println("pra variar o mesmo teste  fewfwe mais e mais emia");
 	}
 
 }
