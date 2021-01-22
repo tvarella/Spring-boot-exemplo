@@ -18,6 +18,7 @@ public class ForumApplication {
 		
 		System.out.println("qualquer coisa pra commitar");
 		System.out.println("mais um teste para commit");
+		System.out.println("mais um teste para commit de novo");
 	}
 
 }
