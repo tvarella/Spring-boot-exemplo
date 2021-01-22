@@ -14,7 +14,10 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 public class ForumApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ForumApplication.class, args);		
+		SpringApplication.run(ForumApplication.class, args);	
+		
+		System.out.println("qualquer coisa pra commitar");
+		System.out.println("mais um teste para commit");
 	}
 
 }
